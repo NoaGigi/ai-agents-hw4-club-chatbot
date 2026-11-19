@@ -1,0 +1,16 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Notebook-generated files
+.ipynb_checkpoints/
+
+# Local databases and logs
+*.db
+*.sqlite
+*.log
+
+# Homework source files requested to stay out of the repository
+AI_Agents_Homework_LangGraph_Topic_Chatbot.pdf
+prompt.txt
